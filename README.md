@@ -2,9 +2,9 @@
 # Criptografia Simples em C
 
 ## Integrantes do grupo 
-Caroline Barroso de Oliveira RGM: 4806351-7
-Maria Eduarda Koskievitcz Ferreira RGM: 4790715-1
-Danielly Mariano da Costa RGM: 4781783-6
+- Caroline Barroso de Oliveira RGM: 4806351-7
+- Maria Eduarda Koskievitcz Ferreira RGM: 4790715-1
+- Danielly Mariano da Costa RGM: 4781783-6
 
 ## Objetivo
 
