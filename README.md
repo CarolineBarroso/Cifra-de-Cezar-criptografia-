@@ -1,6 +1,11 @@
 # Cifra-de-Cezar-criptografia-
 # Criptografia Simples em C
 
+## Integrantes do grupo 
+Caroline Barroso de Oliveira RGM: 4806351-7
+Maria Eduarda Koskievitcz Ferreira RGM: 4790715-1
+Danielly Mariano da Costa RGM: 4781783-6
+
 ## Objetivo
 
 Desenvolver um programa em linguagem C que utilize
