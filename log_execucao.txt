@@ -1,0 +1,8 @@
+ LOG DE EXECUCAO 
+Palavra original: disciplina
+Palavra codificada: hnyjqyvtzn
+SHIFT: 3
+Primeiro termo da PA: 1
+Razao da PA: 1
+Letras: 10
+Tipo: PA
